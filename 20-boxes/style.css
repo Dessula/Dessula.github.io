@@ -1,6 +1,6 @@
 .container {
     display: flex;
-    border: 1px solid blue;
+    border: 1px solid rgb(50, 149, 179);
     width: 550px;
     height: 90px;
     margin-bottom: 10px;
@@ -11,10 +11,10 @@
 
 .container2 {
     display: flex;
-    border: 1px solid blue;
+    border: 1px solid rgb(50, 149, 179);
     width: 550px;
     height: 90px;
-    background: red;
+    background: rgb(197, 57, 57);
     align-items: center;
     justify-content: space-evenly; 
 }
@@ -22,11 +22,11 @@
 .item {
     width: 40px;
     height: 40px;
-    background: blue;
+    background: rgb(50, 149, 179);
 }
 
 .item2 {
     width: 40px;
     height: 40px;
-    background: purple;
+    background: rgb(100, 47, 100);
 }

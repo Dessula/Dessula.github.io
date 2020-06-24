@@ -8,9 +8,10 @@
 
 .asteroid-big {
     background-color: yellow;
-    width: auto;
+    width: 230px;
 }
 
 .asteroid, .asteroid-b326 {
     border: solid 1px green;
+    width: 230px;
 }

@@ -1,0 +1,108 @@
+header {
+  position: relative;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 350px;
+}
+.title {
+  position: absolute;
+  left: 500px;
+  bottom: 30px;
+}
+h2, h1 {
+  margin: 0;
+}
+h2 {
+  font-size: 35px;
+}
+h1 {
+  font-size: 60px;
+}
+.center, blockquote {
+  width: 630px;
+  margin-left: auto;
+  margin-right: auto; 
+}
+.firstlist {
+  line-height: 25px;
+  font-size: 18px;
+}
+ul {
+  list-style-type: square;
+  font-family: 'Josefin Sans', sans-serif; 
+  font-size: 13px;
+}
+li {
+  margin-bottom: 5px;
+}
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  line-height: 25px;
+}
+
+blockquote {
+  position: relative;
+  background: #444;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 40px;
+  text-align: center;
+  padding: 50px;  
+  margin-top: 55px;
+  margin-bottom: 55px;
+}
+.secondq {
+  text-align: left; 
+}
+blockquote::before {
+  content: '“';
+  position: absolute;
+  top: -35px;
+  left: 0px;
+  font-size: 130px;
+}
+
+subtitle {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+h3 {
+ font-family: 'Josefin Sans', sans-serif; 
+  margin-bottom: 0px;
+  line-height: 35px; 
+}
+.secondlist {
+  line-height: 20px; 
+  font-size: 13px;
+}
+.thirdlist {
+  line-height: 20px;
+  font-size: 12.5px;
+}
+
+.thirdq {
+  text-align: left;
+}
+
+.fourthlist {
+  line-height: 20px;
+  font-size: 12.5px;  
+}
+.sixthlist {
+  line-height: 20px;
+  font-size: 12.5px;  
+}
+
+hr {
+  width: 700px;
+  border: 2px solid black;
+  margin-top: 45px;
+}

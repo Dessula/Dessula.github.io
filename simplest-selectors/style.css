@@ -8,6 +8,7 @@
 
 .asteroid-big {
     background-color: yellow;
+    width: auto;
 }
 
 .asteroid, .asteroid-b326 {

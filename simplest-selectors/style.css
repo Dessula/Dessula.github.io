@@ -1,3 +1,15 @@
 .asteroid-big, .asteroid-b329-big {
     color: blue;
 }
+
+.asteroid, .asteroid-b326, .asteroid-b329-big {
+    font-weight: bold;
+}
+
+.asteroid-big {
+    background-color: yellow;
+}
+
+.asteroid, .asteroid-b326 {
+    border: solid 1px green;
+}

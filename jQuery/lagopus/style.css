@@ -1,0 +1,13 @@
+p {
+  background: #0D91A1;
+  color: #015668;
+  font-size: 18px;
+  font-family: 'Baloo Thambi 2', cursive;
+  width: 220px;
+  height: 40px;
+  padding-top: 15px;
+  padding-bottom: 35px;
+  padding-left: 15px;
+  border: 5px solid #7DCE94;
+  margin: 15px;
+}

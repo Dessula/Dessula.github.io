@@ -1,0 +1,28 @@
+main {
+  font-size: 15px;
+  font-weight: bold;
+  color: #88638F;
+  background: pink;
+  width: 300px;
+  padding:15px 15px 30px 40px;
+  border: 5px solid #FF99CC;
+}
+
+header {
+  color: purple;
+}
+
+p {
+  font-size: 20px;
+}
+
+.b {
+  list-style-type: upper-roman;
+  text-decoration-line: underline;
+  font-size: 18px;
+} 
+
+.a {
+ color: purple;
+ font-size: 18px;
+}
